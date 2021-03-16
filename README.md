@@ -1,0 +1,2 @@
+# xthrift
+my thrift
